@@ -25,5 +25,9 @@ if ( ! function_exists( 'elementor_theme_do_location' ) || ! elementor_theme_do_
 
 <?php wp_footer(); ?>
 
+<div style="text-align: center; padding: 10px; background: #000; color: #fff; font-weight: bold; position: fixed; bottom: 0; width: 100%; z-index: 99999;">
+	🚀 Git Auto-Deploy Test Successful!
+</div>
+
 </body>
 </html>
