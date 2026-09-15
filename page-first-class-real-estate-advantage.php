@@ -164,6 +164,8 @@ get_header(); ?>
     }
     .fc-resource-link:hover {
         background: #173f6b;
+        opacity: 0.7;
+        filter: blur(1px);
     }
 
     /* Disclosure */
