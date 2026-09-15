@@ -160,12 +160,12 @@ get_header(); ?>
         text-decoration: none;
         border-radius: 6px;
         font-weight: 600;
-        transition: background 0.3s ease;
+        transition: all 0.3s ease;
     }
     .fc-resource-link:hover {
-        background: #173f6b;
-        opacity: 0.7;
-        filter: blur(1px);
+        background: #facc15;
+        color: #0a2342;
+        transform: translateY(-2px);
     }
 
     /* Disclosure */
